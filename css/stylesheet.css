@@ -1,0 +1,83 @@
+#a.container1{
+    padding: 5px;
+    margin: 0 5px;
+    color: #222;
+    display:inline-block;
+}
+
+
+
+.topBarleft{
+    padding: 5px;
+}
+    a:hover{
+        text-decoration: underline;
+    }
+
+
+.apps{
+    float:right;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+.account{
+    float: right;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+.topBarRight{
+    float: right;
+    padding: 5px;
+    margin: 0 5px;
+    display: inline-block;
+    justify-content: flex-end;
+    flex: 0 0 auto;
+    }
+
+.photo1{
+        
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.navbar{
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    margin-top: -37px;
+    height: 34px;
+    font-size: 16px; 
+    flex: 100%;
+    text-align: center;
+}
+
+.searchBar{
+    width: 350px;
+    border: 2px solid #aaa;
+    
+}
+
+.googleSearch{
+    text-align:center;
+    margin: 225px;
+    padding: 0 16px;
+    
+}
+
+.lucky{
+    text-align: center;
+    margin: -225px;
+    padding: 0 16px;
+    
+}
+
+.bottomBar{
+    display: inline-block;
+    padding: 1px;
+    margin-top: 100px;
+}
