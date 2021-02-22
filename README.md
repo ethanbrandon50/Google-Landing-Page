@@ -1,0 +1,1 @@
+This is my first project going through TheOdinProject web devolopment course. Wish me luck!
